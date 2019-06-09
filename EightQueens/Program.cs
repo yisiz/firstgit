@@ -1,4 +1,5 @@
 ﻿// Problem: i3 doesn't run -- for can not be inside if?
+// i3 still never change
 
 using System;
 
@@ -96,6 +97,7 @@ namespace EightQueens
                     }
 
                 } */
+                int som = 0;
             }
         }
     }
