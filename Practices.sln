@@ -20,6 +20,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EightQueens", "EightQueens\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaoPig.NQueens", "LaoPig.NQueens\LaoPig.NQueens.csproj", "{6F9D4BA1-A142-48B0-9F33-C7864E1BAED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaoPig.NestedLoopIteration", "LaoPig.NestedLoopIteration\LaoPig.NestedLoopIteration.csproj", "{9AF773EE-8680-48AA-B385-F9865D3025CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{6F9D4BA1-A142-48B0-9F33-C7864E1BAED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F9D4BA1-A142-48B0-9F33-C7864E1BAED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F9D4BA1-A142-48B0-9F33-C7864E1BAED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF773EE-8680-48AA-B385-F9865D3025CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF773EE-8680-48AA-B385-F9865D3025CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF773EE-8680-48AA-B385-F9865D3025CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF773EE-8680-48AA-B385-F9865D3025CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
