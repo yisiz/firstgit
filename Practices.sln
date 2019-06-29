@@ -37,8 +37,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thirteen_3", "Thirteen_3\Th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thirteen_6", "Thirteen_6\Thirteen_6.csproj", "{00B2294C-D66A-456F-8D8E-ECD65979062F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thirteen_6_Version2", "Thirteen_6_Version2\Thirteen_6_Version2.csproj", "{EB692180-83FC-4DF0-89C5-A619FB1BE3B6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thirteen_10", "Thirteen_10\Thirteen_10.csproj", "{71840E57-7C63-4B33-93EF-1E8643CAB5E0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thirteen_13", "Thirteen_13\Thirteen_13.csproj", "{0E7221C0-C502-4588-A09A-06CE2D7C5981}"
@@ -123,10 +121,6 @@ Global
 		{00B2294C-D66A-456F-8D8E-ECD65979062F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00B2294C-D66A-456F-8D8E-ECD65979062F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00B2294C-D66A-456F-8D8E-ECD65979062F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EB692180-83FC-4DF0-89C5-A619FB1BE3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB692180-83FC-4DF0-89C5-A619FB1BE3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB692180-83FC-4DF0-89C5-A619FB1BE3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB692180-83FC-4DF0-89C5-A619FB1BE3B6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{71840E57-7C63-4B33-93EF-1E8643CAB5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{71840E57-7C63-4B33-93EF-1E8643CAB5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71840E57-7C63-4B33-93EF-1E8643CAB5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
